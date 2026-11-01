@@ -1,0 +1,10 @@
+__pycache__/
+state.json
+state.json.tmp
+.env
+.venv/
+.uv-cache/
+webhook.txt
+*.log
+checker.pid
+.python/
